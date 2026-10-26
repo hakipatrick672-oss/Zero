@@ -2,7 +2,7 @@ const mineflayer = require('mineflayer')
 
 const bot = mineflayer.createBot({
   host: 'servidorDaSiilvaGamer.aternos.me', // Substitua pelo IP do seu Aternos
-  port: 5990,                    // Substitua pela porta numérica do seu Aternos
+  port: 45810,                    // Substitua pela porta numérica do seu Aternos
   username: 'zeroDoBot'           // Nome que o bot vai usar dentro do jogo
 })
 
